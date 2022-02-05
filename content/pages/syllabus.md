@@ -37,10 +37,63 @@ Gelman, Andrew, John B. Carlin, Hal S. Stern, and Donald B. Rubin. _Bayesian Dat
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Visualization |
-| 2 | Resampling |
-| 3 | Distributions |
-| 4 | Linear Model |
-| 5 | Examples
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Visualization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Resampling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Distributions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Examples
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
