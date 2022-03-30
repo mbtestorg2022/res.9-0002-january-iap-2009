@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/96df7f49cd50ed9bb0feb4793b9c8d89_lec1_visulzatn.pdf
 file_type: application/pdf
+parent_uid: 312df75a-88ed-99bf-6435-5c8d6f25e8d8
 resourcetype: Document
 title: lec1_visulzatn.pdf
 uid: 96df7f49-cd50-ed9b-b0fe-b4793b9c8d89
